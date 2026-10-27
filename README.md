@@ -10,6 +10,8 @@ I am VERY new to CAD i just a build a Phone stand in Onshape then a Drone Propel
 Then I always thought of CADing my Drone Frame SO as i told u i am new to CAD i watched tutorial from youtube about the same : https://youtu.be/DoC8GQmAyYM
 Big thanks to the creator, It was a very good tutorial and very helpful !! In the video It was only shown how to make the lower body and arms but by taking an inspiration from the thumbnail, i also made the upper body and some other minor changess !!
 
+pritnables link for this - https://www.printables.com/model/1864490-fpv-drone-frame
+
 p.s. - i also put the drone propellers i made in the model to make it look cool lol !!
 
 <img width="1518" height="1056" alt="Screenshot 2026-09-27 161554" src="https://github.com/user-attachments/assets/6826bd40-c8e0-493f-bdf3-239830ab5061" />
